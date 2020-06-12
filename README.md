@@ -47,9 +47,11 @@ Si querés inspeccionar el conjunto de datos en csv, encontrarás un fragmento e
 ## 5. Hitos de la mentoría
 A partir del segundo hito (del 19/7) trabajaremos directamente en las preguntas presentadas en la Sección 3 de este documento.
  
-22/6 práctico de análisis y visualización, que consistirá en analizar y visualizar estadísticas básicas del dataset. Cuántas conversaciones hay, cuántos mensajes, cuántos docentes, cuántos estudiantes, análisis de cantidad de mensajes por conversación, análisis de cantidad de por mensaje, análisis de datos demográficos de los docentes   
+29/6 práctico de análisis y visualización, que consistirá en analizar y visualizar estadísticas básicas del dataset. Cuántas conversaciones hay, cuántos mensajes, cuántos docentes, cuántos estudiantes, análisis de cantidad de mensajes por conversación, análisis de cantidad de por mensaje, análisis de datos demográficos de los docentes   
  
 19/7 práctico de análisis y visualización, que consistirá en investigar la pregunta A
+
+Los prácticos del 29/6 y del 19/7 serán entregados juntos el 19/7 pero el 19/6 y el 29/6 tendremos entregas parciales.
  
 16/8 práctico de introducción al aprendizaje automático, que consistirá en investigar la pregunta B
  
